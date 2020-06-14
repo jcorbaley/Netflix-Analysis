@@ -1,6 +1,7 @@
 # Netflix-Analysis
 
 Netflix has a dataset that has information about all the movies on the streaming app. There is a lot of useful information about movies within the dataset. The dataset has the following column names: 
+
 •	Show id – An id to represent a movie or tv show.<br/> 
 •	Title – The title of the movie or tv show. <br/>
 •	Director – Who directed the piece. <br/>
